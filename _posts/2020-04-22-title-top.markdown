@@ -1,5 +1,8 @@
 ---
 title: All of the lights
-exerpt: The nightlife here runs the gamut, from rowdy izakayas and beer bars, to red-light entertainment and the infamous Robot Restaurant.
+date: 2020-04-22 00:00:00 Z
+exerpt: The nightlife here runs the gamut, from rowdy izakayas and beer bars, to red-light
+  entertainment and the infamous Robot Restaurant.
 ---
+
 blog 3
